@@ -26,7 +26,7 @@ To start using the EGYEast Streaming Platform, follow these steps:
 
 ### Run the Java Program:
 Locate the extracted files and navigate to the directory containing the EGYEast application.
-Double-click on the executable file (e.g., EGYEast.jar) to launch the application.
+Double-click on the executable file (e.g. , EGYEast.jar) to launch the application.
 Follow the on-screen instructions to complete the installation process.
 
 ### Include Database File:
